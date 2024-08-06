@@ -1,5 +1,6 @@
-# gamehaks
-random "hacks" I've made for random games
+# yohoho hack
+
+...if you give a shit about hacking yohoho. :D
 
 <hr>
 
